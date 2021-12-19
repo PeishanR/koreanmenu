@@ -1,0 +1,70 @@
+body{
+  background-color: #040303;
+  margin:0px;
+  text-align: center;
+}
+
+h1{
+  color:#F3950D;
+  font-family: 'Eczar', serif;
+  font-weight: normal;
+}
+
+h2{
+  color:#F4E185;
+  font-family: 'Taviraj', serif;
+  font-weight: normal;
+}
+
+.gif{
+  height:270px;
+  width:480px;
+}
+
+#eindhoven{
+  display:inline-block;
+  position:relative;
+  bottom:15px;
+  font-size: 60px;
+  font-family: 'Taviraj', serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+#sub_header_right{
+  display:inline-block;
+  margin:0;
+}
+
+
+.header_container{
+  background-color: white;
+  height:320px;
+}
+
+#bibimbap{
+  position:relative;
+  top:20px;
+  left:30px;
+  height:300px;
+}
+
+.korean_fonts{
+  font-family: 'Nanum Brush Script', cursive;
+}
+
+hr{
+  border: dotted #CD1818 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+p{
+  margin:0px;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-family: 'Taviraj', serif;
+}
